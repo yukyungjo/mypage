@@ -1,18 +1,13 @@
 html, body {text-align:center}
-.S-Core {font-family: 'Ownglyph Joneulbo'}
+.body {font-family: 'Ownglyph Joneulbo'; font-weight: 100;}
 .main {font-size: 30px;]
-.sub {font-size: 25px;
-      font-weight: 400;
-            size : 25px;}
-.bigbutton {font-size: 16px;
-            font-weight: bold;}
+.sub {font-size: 25px;}
+.bigbutton {font-size: 16px;}
 
 
 @font-face {
 	font-family: 'Ownglyph Joneulbo', Regular;
-	font-weight: normal;
-	font-style: normal;
-	font-display: swap;
+	font-weight: 100;
 	src: local('Ownglyph Joneulbo Regular')	     
          url('ownglyphjoneulbo/ownglyphjoneulbo.woff') format('woff'),
          url('ownglyphjoneulbo/ownglyphjoneulbo.woff2') format('woff2'),
