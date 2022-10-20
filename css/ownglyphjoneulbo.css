@@ -1,15 +1,19 @@
 html, body {text-align:center}
-.main {font-size:30PX; font-weight: normal;}
-.sub {font-size: 25px; font-weight: normal;}
-.wrap {font-size: 16px; font-weight: normal;}
+.S-Core {font-family: 'Ownglyph Joneulbo'}
+.main {font-size: 30px;]
+.sub {font-size: 25px;
+      font-weight: 400;
+            size : 25px;}
+.bigbutton {font-size: 16px;
+            font-weight: bold;}
+
 
 @font-face {
 	font-family: 'Ownglyph Joneulbo', Regular;
-	font-weight: normal
+	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
 	src: local('Ownglyph Joneulbo Regular')	     
-	     url('ownglyphjoneulbo/ownglyphjoneulbo.eot') format('embedded-opentype'),
          url('ownglyphjoneulbo/ownglyphjoneulbo.woff') format('woff'),
          url('ownglyphjoneulbo/ownglyphjoneulbo.woff2') format('woff2'),
-		 url('ownglyphjoneulbo/ownglyphjoneulbo.ttf') format('truetype');}
+         url('ownglyphjoneulbo/ownglyphjoneulbo.ttf') format('truetype');}
