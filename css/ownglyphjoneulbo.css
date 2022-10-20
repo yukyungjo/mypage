@@ -1,7 +1,7 @@
 html, body {text-align:center}
-.main {font-size:20PX;}
-.sub {font-size: 15px;}
-.wrap {font-size: 14px; font-weight: bold;}
+.main {font-size:30PX;}
+.sub {font-size: 25px;}
+.wrap {font-size: 16px; font-weight: bold;}
 
 @font-face {
 	font-family: "Ownglyph Joneulbo", Regular;
