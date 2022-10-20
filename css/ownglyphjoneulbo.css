@@ -1,0 +1,14 @@
+html, body {text-align:center}
+.main {font-size:20PX;}
+.sub {font-size: 15px;}
+.wrap {font-size: 14px; font-weight: bold;}
+
+@font-face {
+	font-family: "Ownglyph Joneulbo", Regular;
+	font-weight: 100;
+	font-display: swap;
+	src: local('Ownglyph Joneulbo Regular')	     
+	     url('ownglyphjoneulbo/ownglyphjoneulbo.eot') format('embedded-opentype'),
+         url('ownglyphjoneulbo/ownglyphjoneulbo.woff') format('woff'),
+         url('ownglyphjoneulbo/ownglyphjoneulbo.woff2') format('woff2'),
+		 url('ownglyphjoneulbo/ownglyphjoneulbo.ttf') format('truetype');}
